@@ -1,1 +1,1 @@
-# [Ссылка на сайт](smartpluginscommunity.github.io)
+# [Ссылка на сайт](http://smartpluginscommunity.github.io)
