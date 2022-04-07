@@ -47,9 +47,16 @@ obj.Method()
 
 
 4. Если тернарный оператор слишком длинный, его следует перенести на другую строку следующим образом:
-`
+```
+// Не требует переноса
 myField = someCondition ? true : false;
-`
+
+// Для лучшей читаемости перенесем
+var mediumValue =  (this.EnableAlternativeAbbreviation) 
+    ? PlSystem.Media_System.SubnameStandart 
+    : PlSystem.Media_System.SubnameAlternative;
+```
+
 
 5. Размещать абстрактные/автоматические свойства/индексы/события на одной строке.
 
