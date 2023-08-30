@@ -5,4 +5,4 @@
 
 ## [Стиль кода](codestyle)
 
-## [Стиль кода](wpf/links)
+## [WPF](wpf/links.md)
