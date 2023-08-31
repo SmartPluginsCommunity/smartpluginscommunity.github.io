@@ -1,4 +1,5 @@
 # Welcome to SmartPlugins Community
 
-## WPF
-## [Полезные ссылки](wpf/links.md)
+- Полезные ссылки и обучающие материалы
+  - WPF
+    - [Полезные ссылки](wpf/links.md)
